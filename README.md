@@ -1,5 +1,5 @@
 # AnyColabs.com
-Any coloboration software you can imagine
+Any collaboration software you can imagine
 
 Программное обеспечение делится на 2 составляющих
 
