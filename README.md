@@ -1,4 +1,4 @@
-# Quasar App (anycolabs-extansion)
+# Quasar App (anycolabs-extension)
 
 A Quasar Framework app
 
