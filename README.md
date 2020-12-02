@@ -7,7 +7,7 @@ Any collaboration software you can imagine
 
 :pencil: - в работе
 
-:watch: - пул реквест готов
+:green_apple: - пул реквест готов
 
 Программное обеспечение делится на 2 составляющих
 
