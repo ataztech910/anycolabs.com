@@ -1,6 +1,14 @@
 # AnyColabs.com
 Any collaboration software you can imagine
 
+## Статусы для каждого пункта
+
+:tomato: - в ожидании 
+
+:pencil: - в работе
+
+:watch: - пул реквест готов
+
 Программное обеспечение делится на 2 составляющих
 
 ## Расширение для браузера (Chrome/Edge/Opera/Firefox)
